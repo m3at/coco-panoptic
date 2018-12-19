@@ -5,7 +5,7 @@ Quick attempt at a panoptic segmentation model.
 
 #WIP
 
-This tackle the panotpic segmentation task proposed by the [Panoptic Segmentation](https://arxiv.org/pdf/1801.00868.pdf) paper.
+This tackle the segmentation task proposed by the [Panoptic Segmentation](https://arxiv.org/pdf/1801.00868.pdf) paper.
 
 I take advantage of two existing implementation offering pretrained models for coco:
 * [Deeplab implementation](https://github.com/kazuto1011/deeplab-pytorch) in pytorch, for the semantic segmentation part.
